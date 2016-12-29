@@ -1,7 +1,7 @@
 # CNCurses
-System module map for ncurses.
+System module map for _ncurses_.
 
-For details about using ncurses, see http://invisible-island.net/ncurses/.
+For details about using _ncurses_, see http://invisible-island.net/ncurses/.
 
 ## Including in Swift Code
 
@@ -22,9 +22,7 @@ Then import it:
 
 ## MacOS Installation
 
-Install the library from Homebrew:
-
-    brew install homebrew/dupes/ncurses
+No library is required, _ncurses_ is part of the sdk.
 
 ## Ubuntu Installation (Trusty)
 

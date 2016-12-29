@@ -1,5 +1,5 @@
 module CNCurses [system] {
-  header "/usr/local/Cellar/ncurses/6.0_2/include/ncurses.h"
+  header "shim.h"
   link "ncurses"
   export *
 }
