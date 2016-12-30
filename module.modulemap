@@ -1,5 +1,7 @@
 module CNCurses [system] {
   header "shim.h"
+  header "wrappers.h"
   link "ncurses"
+  config_macros _XOPEN_SOURCE_EXTENDED
   export *
 }
